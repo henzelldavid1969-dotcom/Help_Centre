@@ -2,12 +2,17 @@
 
 * [Introduction](README.md)
 
+* ## Getting Started
+
 * [The Life-Changing Power of a Sobriety Coach: Your Guide to Transformation](the-life-changing-power-of-a-sobriety-coach-your-g.md)
 * [Alcohol Assessment](alcohol-assessment.md)
 * [My THRIVE Sobriety Framework](my-thrive-sobriety-framework.md)
 * [Scribe](scribe.md)
 * [How do I tell other people I don't drink anymore?](how-do-i-tell-other-people-i-dont-drink-anymore.md)
 * [What happens to my creativity and confidence when I stop drinking?](what-happens-to-my-creativity-and-confidence-when-.md)
+
+* ## Troubleshooting
+* 
 * [How will I handle celebrations and holidays without drinking?](how-will-i-handle-celebrations-and-holidays-withou.md)
 * [What if I'm not at "rock bottom" - is it still too early to quit?](what-if-im-not-at-rock-bottom-is-it-still-too-earl.md)
 * [I've tried to stop several times before. What makes Phenomenal any different?](ive-tried-to-stop-several-times-before-what-makes-.md)
