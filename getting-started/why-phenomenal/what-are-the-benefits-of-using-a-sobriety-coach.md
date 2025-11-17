@@ -1,8 +1,12 @@
-# What are the benefits of using a Sobriety Coach?
+---
+description: >-
+  Using a sobriety coach can offer several benefits for those looking to stop
+  drinking. Here are some key advantages.
+---
 
-Using a sobriety coach can offer several benefits for those looking to stop drinking. Here are some key advantages:
+# The Benefits of using a Sobriety Coach?
 
-## Benefits of a Sobriety Coach
+## Benefits of using a Sobriety Coach
 
 **Personalised Help and Support**
 
@@ -33,3 +37,6 @@ For more detailed insights, you might find this [article on the benefits of a so
 Engaging with a sobriety coach can be a valuable step in your journey to stop drinking, providing both practical and emotional support.
 
 If having a coach on hand sounds like a good idea - why not contact Phenomenal today to discuss your options?
+
+
+

@@ -1,4 +1,10 @@
-# My THRIVE Sobriety Framework
+---
+description: >-
+  Phenomenal is built upon my signature "Thrive Sobriety System". Here's a
+  reminder of those crucial pillars.
+---
+
+# The THRIVE System
 
 ## A Proprietary Sobriety System
 
@@ -20,37 +26,25 @@ The THRIVE System stands at the heart of your Phenomenal program - a transformat
 
 The THRIVE System works as a comprehensive approach that addresses the whole person:
 
-*
-
 **Transforming mindset**
 
 Shifting how clients think about alcohol and sobriety, moving from seeing sobriety as deprivation to recognising it as an opportunity and privilege. ​
-
-*
 
 **Harnessing personal power**
 
 Empowering clients to take ownership of their choices and recognise their inherent ability to change their lives. ​
 
-*
-
 **Redesigning responses to triggers**
 
 Identifying and addressing the situations, emotions, and thoughts that lead to drinking, creating new healthy response patterns. ​
-
-*
 
 **Implementing daily practices**
 
 Integrating evidence-based techniques and activities that build resilience and create new positive habits. ​
 
-*
-
 **Validating progress**
 
 Celebrating achievements and milestones, reinforcing positive changes through recognition. ​
-
-*
 
 **Evolving beyond basic sobriety**
 
@@ -69,3 +63,6 @@ Through the Phenomenal program, clients receive structured guidance while mainta
 The result is a profound shift where alcohol simply loses its place in a person's life - not through force of will or constant struggle, but through genuine transformation of how they relate to themselves, others, and the world around them.
 
 This signature system forms the backbone of your impressive 98% success rate in helping clients transform their relationship with alcohol forever.
+
+
+

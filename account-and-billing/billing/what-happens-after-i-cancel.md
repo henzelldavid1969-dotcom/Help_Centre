@@ -1,20 +1,20 @@
-# What happens after I cancel?
+---
+description: Our refund policy, outlined in brief.
+---
 
-We'll be sad to see you go (like when your favourite show ends 📺), but here's what happens next:
+# Refunds
 
-- 
-You keep full access until your billing period ends (we're not those people who take away your Netflix mid-show!)
+### Refunds
 
-- 
-Zero surprise charges (we hate those more than you do!)
+We offer a **7-Day Satisfaction Guarantee** on all program purchases. If within 7 days of your purchase date you feel the program is not right for you, you may request a full refund provided that ALL of the following conditions are met:
 
-- 
-Your data stays safe for 30 days (like keeping your spot in a book 📚)
+* You have accessed less than 20% of the program content
+* You have not downloaded any workbooks, materials, or resources
+* You have not attended any live coaching sessions or group calls (where applicable)
 
-- 
-Changed your mind? Welcome back anytime within 30 days (no awkwardness, promise!)
 
-- 
-Pro tip: Download anything you want to keep (like saving photos before getting a new phone 📱)
 
-Remember that time you cancelled your gym membership and they made it super difficult? Yeah, we're not like that AT ALL! 😅
+### Important
+
+Refund requests must be submitted in writing to [hello@phenomenalsobriety.com](mailto:hello@phenomenalsobriety.com) within the 7-day window. After this period, or once any materials have been downloaded or significant content accessed, **all sales are final** due to the digital nature of our content.\
+\

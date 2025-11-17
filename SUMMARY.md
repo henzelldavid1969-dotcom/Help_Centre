@@ -1,15 +1,13 @@
 # Table of contents
 
-* [Introduction](README.md)
-
 ## Getting Started
 
-* [Why Phenomenal?](getting-started/why-phenomenal/README.md)
-  * [What are the benefits of doing a sobriety program?](getting-started/why-phenomenal/what-are-the-benefits-of-doing-a-sobriety-program.md)
-  * [What are the benefits of using a Sobriety Coach?](getting-started/why-phenomenal/what-are-the-benefits-of-using-a-sobriety-coach.md)
+* [Why Phenomenal?](README.md)
+  * [The Benefits of Following A Sobriety Program](getting-started/why-phenomenal/what-are-the-benefits-of-doing-a-sobriety-program.md)
+  * [The Benefits of using a Sobriety Coach?](getting-started/why-phenomenal/what-are-the-benefits-of-using-a-sobriety-coach.md)
   * [Why is Phenomenal so effective?](getting-started/why-phenomenal/why-is-phenomenal-so-effective.md)
   * [Who is Phenomenal for?](getting-started/why-phenomenal/who-is-phenomenal-for.md)
-  * [Why Gamification Works: The Benefits of Phenomenal's Approach.](getting-started/why-phenomenal/why-gamification-works-the-benefits-of-phenomenals.md)
+  * [Phenomenal's Gamified Elements](getting-started/why-phenomenal/why-gamification-works-the-benefits-of-phenomenals.md)
 
 ## Account & Billing
 
@@ -18,9 +16,9 @@
   * [How do I create an account?](account-and-billing/login-and-access/how-do-i-create-an-account.md)
   * [How do I purchase Phenomenal?](account-and-billing/login-and-access/how-do-i-purchase-phenomenal.md)
 * [Billing](account-and-billing/billing/README.md)
-  * [What payment methods do you accept?](account-and-billing/billing/what-payment-methods-do-you-accept.md)
-  * [How do I update my payment information?](account-and-billing/billing/how-do-i-update-my-payment-information.md)
-  * [What happens after I cancel?](account-and-billing/billing/what-happens-after-i-cancel.md)
+  * [Payment Methods](account-and-billing/billing/what-payment-methods-do-you-accept.md)
+  * [Payment Information](account-and-billing/billing/how-do-i-update-my-payment-information.md)
+  * [Refunds](account-and-billing/billing/what-happens-after-i-cancel.md)
   * [How much does Phenomenal cost?](account-and-billing/billing/how-much-does-phenomenal-cost.md)
 
 ## Using the Program
@@ -28,13 +26,12 @@
 * [Using Phenomenal](using-the-program/using-phenomenal/README.md)
   * [Accessing your program](using-the-program/using-phenomenal/accessing-your-program.md)
   * [Following your Program](using-the-program/using-phenomenal/following-your-program.md)
-  * [10 Light-Hearted Tips to Make the Most of Your Online Sobriety Course](using-the-program/using-phenomenal/10-light-hearted-tips-to-make-the-most-of-your-onl.md)
+  * [Ten Phenomenal Top Tips](using-the-program/using-phenomenal/10-light-hearted-tips-to-make-the-most-of-your-onl.md)
 * [Requirements](using-the-program/requirements/README.md)
-  * [What are the system requirements?](using-the-program/requirements/what-are-the-system-requirements.md)
+  * [System Requirements?](using-the-program/requirements/what-are-the-system-requirements.md)
 * [Features](using-the-program/features/README.md)
   * [Phenomenal Features Guide](using-the-program/features/phenomenal-features-guide.md)
-  * [My THRIVE Sobriety Framework](using-the-program/features/my-thrive-sobriety-framework.md)
-  * [My THRIVE Sobriety Framework](using-the-program/features/my-thrive-sobriety-framework-1.md)
+  * [The THRIVE System](using-the-program/features/my-thrive-sobriety-framework.md)
 
 ## Sobriety Guidance
 
