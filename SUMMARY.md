@@ -82,3 +82,11 @@
   * [Billy No-Mates?](sobriety-guidance/life-after-alcohol/will-i-lose-my-friends-social-life-if-i-stop-drink.md)
   * [Other Drinkers.](sobriety-guidance/life-after-alcohol/what-if-my-partner-family-still-drink-how-do-i-han.md)
   * [Handling Stress & Anxiety.](sobriety-guidance/life-after-alcohol/how-will-i-handle-stress-anxiety-sleep-without-alc.md)
+
+## Network
+
+* [Page 1](network/page-1.md)
+
+## Community
+
+* [Page 2](community/page-2.md)
