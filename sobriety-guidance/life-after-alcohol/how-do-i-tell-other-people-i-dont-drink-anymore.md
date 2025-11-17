@@ -1,4 +1,10 @@
-# How do I tell other people I don't drink anymore?
+---
+description: >-
+  Telling others you have quit drinking can be tough. Here's some ideas to
+  smooth the process.
+---
+
+# Telling Other people.
 
 Explaining to others why you're not drinking alcohol can be straightforward and respectful. Here are some tips on how to approach the conversation:
 
@@ -31,3 +37,6 @@ Understand that some people may not fully understand your choice. Stay confident
 ## Conclusion
 
 Ultimately, the way you explain your choice should reflect your comfort level. Surround yourself with supportive people who respect your decision, and remember that your well-being is the priority.
+
+
+

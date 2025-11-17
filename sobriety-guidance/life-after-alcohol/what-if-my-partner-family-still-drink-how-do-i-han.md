@@ -1,248 +1,139 @@
-# What if my partner / family still drink? How do I handle that?
+---
+description: Being sober around drinkers can be tough. But not impossible.
+---
+
+# Other Drinkers.
 
 Maintaining sobriety while living with or spending time with drinkers requires clear strategies and strong boundaries:
 
 ## Understanding the Challenge:
 
-- 
+
+
 **Common Situations:**
 
-- 
-Partner drinks at home
+* Partner drinks at home
+* Family gatherings with alcohol
+* Shared social circles
+* Holiday celebrations
+* Regular routines involving alcohol ​
 
-- 
-Family gatherings with alcohol
 
-- 
-Shared social circles
 
-- 
-Holiday celebrations
-
-- 
-Regular routines involving alcohol
-​
-
-- 
 **Potential Complications:**
 
-- 
-Triggers in your living space
-
-- 
-Relationship dynamics
-
-- 
-Social pressure
-
-- 
-Emotional challenges
-
-- 
-Lifestyle differences
+* Triggers in your living space
+* Relationship dynamics
+* Social pressure
+* Emotional challenges
+* Lifestyle differences
 
 ## Creating a Supportive Environment:
 
-- 
+
+
 **Physical Space:**
 
-- 
-Designated alcohol-free areas
+* Designated alcohol-free areas
+* Separate storage for drinks
+* Your own beverage space
+* Clear visual boundaries
+* Safe retreat spaces ​
+* Communication Strategies
 
-- 
-Separate storage for drinks
+### With Partner:
 
-- 
-Your own beverage space
+* Express your needs clearly
+* Share your triggers
+* Discuss compromises
+* Set boundaries
+* Plan together
 
-- 
-Clear visual boundaries
+### With Family:
 
-- 
-Safe retreat spaces
-​
+* Communicate your decision
+* Request support
+* Share your boundaries
+* Explain your needs
+* Stay firm but kind
 
-- 
-Communication Strategies:
+### Personal Boundaries:
 
-## With Partner:
+* What you're comfortable with
+* Your limits and triggers
+* Your non-negotiables
+* Your support needs
+* Your safe spaces
 
-- 
-Express your needs clearly
+### Household Boundaries:
 
-- 
-Share your triggers
+* Alcohol storage
+* Drinking areas
+* Social gatherings
+* Shared activities
+* Recovery support
 
-- 
-Discuss compromises
+### Practical Solutions:
 
-- 
-Set boundaries
 
-- 
-Plan together
 
-## With Family:
-
-- 
-Communicate your decision
-
-- 
-Request support
-
-- 
-Share your boundaries
-
-- 
-Explain your needs
-
-- 
-Stay firm but kind
-
-## Personal Boundaries:
-
-- 
-What you're comfortable with
-
-- 
-Your limits and triggers
-
-- 
-Your non-negotiables
-
-- 
-Your support needs
-
-- 
-Your safe spaces
-
-## Household Boundaries:
-
-- 
-Alcohol storage
-
-- 
-Drinking areas
-
-- 
-Social gatherings
-
-- 
-Shared activities
-
-- 
-Recovery support
-
-## Practical Solutions:
-
-- 
 **For Home Life:**
 
-- 
-Create alcohol-free zones
+* Create alcohol-free zones
+* Stock non-alcoholic alternatives
+* Develop new shared rituals
+* Plan sober activities
+* Establish quiet spaces ​
 
-- 
-Stock non-alcoholic alternatives
 
-- 
-Develop new shared rituals
 
-- 
-Plan sober activities
-
-- 
-Establish quiet spaces
-​
-
-- 
 **For Social Situations:**
 
-- 
-Arrive early, leave early
+* Arrive early, leave early
+* Bring your own drinks
+* Have an exit strategy
+* Plan alternative activities
+* Stay connected with support system ​
 
-- 
-Bring your own drinks
 
-- 
-Have an exit strategy
 
-- 
-Plan alternative activities
-
-- 
-Stay connected with support system
-​
-
-- 
 **For Emotional Support:**
 
-- 
-Build external support network
+* Build external support network
+* Attend support groups
+* Maintain personal practices
+* Seek counselling if needed
+* Connect with a ober community
 
-- 
-Attend support groups
+### Managing Relationship Dynamics:
 
-- 
-Maintain personal practices
 
-- 
-Seek counseling if needed
 
-- 
-Connect with sober community
-
-## Managing Relationship Dynamics:
-
-- 
 **With Partner:**
 
-- 
-Regular check-ins
+* Regular check-ins
+* Shared understanding
+* Mutual respect
+* Open communication
+* Collaborative problem-solving ​
 
-- 
-Shared understanding
 
-- 
-Mutual respect
 
-- 
-Open communication
-
-- 
-Collaborative problem-solving
-​
-
-- 
 **With Family:**
 
-- 
-Clear expectations
+* Clear expectations
+* Consistent boundaries
+* Respectful dialogue
+* Alternative traditions
+* New ways to connect
 
-- 
-Consistent boundaries
+### Remember:
 
-- 
-Respectful dialogue
+* Your sobriety comes first
+* Others' choices are their own
+* You deserve support and understanding
+* Boundaries are healthy and necessary
+* Change is possible while maintaining relationships
 
-- 
-Alternative traditions
 
-- 
-New ways to connect
 
-## Remember:
-
-- 
-Your sobriety comes first
-
-- 
-Others' choices are their own
-
-- 
-You deserve support and understanding
-
-- 
-Boundaries are healthy and necessary
-
-- 
-Change is possible while maintaining relationships

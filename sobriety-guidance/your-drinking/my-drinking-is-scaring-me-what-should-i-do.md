@@ -1,3 +1,7 @@
+---
+description: Taking action when your drinking is concerning you.
+---
+
 # My drinking is scaring me what should I do?
 
 It's understandable to feel concerned about your drinking habits, and it's important to take steps to address this. Here are some actions you can consider:
@@ -28,13 +32,11 @@ Share your concerns with a trusted friend or family member who can offer support
 
 ## Long-term Strategies
 
-- 
-**Set Clear Goals**: Decide whether you want to cut back or quit entirely, and set achievable goals.
-
-- 
-**Develop Coping Strategies**: Identify triggers and develop strategies to manage cravings.
-
-- 
-**Adopt a Healthy Lifestyle**: Focus on nutrition, exercise, and stress management to support your overall well-being.
+* **Set Clear Goals**: Decide whether you want to cut back or quit entirely, and set achievable goals.
+* **Develop Coping Strategies**: Identify triggers and develop strategies to manage cravings.
+* **Adopt a Healthy Lifestyle**: Focus on nutrition, exercise, and stress management to support your overall well-being.
 
 Remember, seeking help is a sign of strength, and there are many resources available to support you on this journey. If you need immediate assistance, don't hesitate to reach out to discuss your drinking and discover how Phenomenal could help.
+
+
+

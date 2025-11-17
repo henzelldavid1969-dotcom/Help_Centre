@@ -1,4 +1,8 @@
-# What happens to my creativity and confidence when I stop drinking?
+---
+description: Sobriety isn't the death of creativity. Quite the opposite.
+---
+
+# Sober Creativity.
 
 Quitting alcohol can have a significant impact on both creativity and confidence. Here's what you might experience:
 
@@ -35,3 +39,6 @@ Without relying on alcohol as a social crutch, you may develop more genuine conn
 Learning to handle stress and emotions without alcohol can build resilience and confidence in your ability to face challenges.
 
 Overall, while the transition may be challenging, many people find that quitting alcohol leads to a more fulfilling and creatively rich life. If you're considering this change, it can be a positive step towards enhancing both your creativity and confidence.
+
+
+
