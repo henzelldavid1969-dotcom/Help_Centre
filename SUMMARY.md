@@ -3,39 +3,31 @@
 * [Introduction](README.md)
 * [The Life-Changing Power of a Sobriety Coach: Your Guide to Transformation](the-life-changing-power-of-a-sobriety-coach-your-g.md)
 
-## Group 1
+## Getting Started
 
-* [Page](group-1/page.md)
+* [My THRIVE Sobriety Framework](getting-started/my-thrive-sobriety-framework.md)
+* [Page](getting-started/page.md)
 
-## Section One
+## Account & Billing
 
-* [Page Group](section-one/page-group/README.md)
-  * [My THRIVE Sobriety Framework](section-one/page-group/my-thrive-sobriety-framework.md)
-  * [How do I tell other people I don't drink anymore?](section-one/page-group/how-do-i-tell-other-people-i-dont-drink-anymore/README.md)
-    * [Alcohol Assessment](section-one/page-group/how-do-i-tell-other-people-i-dont-drink-anymore/alcohol-assessment.md)
-    * [Page 1](section-one/page-group/how-do-i-tell-other-people-i-dont-drink-anymore/page-1.md)
+* [Page Group](account-and-billing/page-group.md)
 
-## Copy of Section One
+## Using the Program
 
-* [Copy of Page Group](copy-of-section-one/copy-of-page-group/README.md)
-  * [My THRIVE Sobriety Framework](copy-of-section-one/copy-of-page-group/my-thrive-sobriety-framework.md)
-  * [How do I tell other people I don't drink anymore?](copy-of-section-one/copy-of-page-group/how-do-i-tell-other-people-i-dont-drink-anymore/README.md)
-    * [Alcohol Assessment](copy-of-section-one/copy-of-page-group/how-do-i-tell-other-people-i-dont-drink-anymore/alcohol-assessment.md)
-    * [Page 1](copy-of-section-one/copy-of-page-group/how-do-i-tell-other-people-i-dont-drink-anymore/page-1.md)
-  * [What happens to my creativity and confidence when I stop drinking?](copy-of-section-one/copy-of-page-group/what-happens-to-my-creativity-and-confidence-when.md)
-  * [How will I handle celebrations and holidays without drinking?](copy-of-section-one/copy-of-page-group/how-will-i-handle-celebrations-and-holidays-withou.md)
-  * [What if I'm not at "rock bottom" - is it still too early to quit?](copy-of-section-one/copy-of-page-group/what-if-im-not-at-rock-bottom-is-it-still-too-earl.md)
+* [Copy of Page Group](using-the-program/copy-of-page-group/README.md)
+  * [My THRIVE Sobriety Framework](using-the-program/copy-of-page-group/my-thrive-sobriety-framework.md)
+  * [How do I tell other people I don't drink anymore?](using-the-program/copy-of-page-group/how-do-i-tell-other-people-i-dont-drink-anymore/README.md)
+    * [Alcohol Assessment](using-the-program/copy-of-page-group/how-do-i-tell-other-people-i-dont-drink-anymore/alcohol-assessment.md)
+    * [Page 1](using-the-program/copy-of-page-group/how-do-i-tell-other-people-i-dont-drink-anymore/page-1.md)
+  * [What happens to my creativity and confidence when I stop drinking?](using-the-program/copy-of-page-group/what-happens-to-my-creativity-and-confidence-when.md)
+  * [How will I handle celebrations and holidays without drinking?](using-the-program/copy-of-page-group/how-will-i-handle-celebrations-and-holidays-withou.md)
+  * [What if I'm not at "rock bottom" - is it still too early to quit?](using-the-program/copy-of-page-group/what-if-im-not-at-rock-bottom-is-it-still-too-earl.md)
 
-## Copy of Copy of Section One
+## Sobriety Advice
 
-* [Copy of Page Group](copy-of-copy-of-section-one/copy-of-page-group/README.md)
-  * [My THRIVE Sobriety Framework](copy-of-copy-of-section-one/copy-of-page-group/my-thrive-sobriety-framework.md)
-  * [How do I tell other people I don't drink anymore?](copy-of-copy-of-section-one/copy-of-page-group/how-do-i-tell-other-people-i-dont-drink-anymore/README.md)
-    * [Alcohol Assessment](copy-of-copy-of-section-one/copy-of-page-group/how-do-i-tell-other-people-i-dont-drink-anymore/alcohol-assessment.md)
-    * [Page 1](copy-of-copy-of-section-one/copy-of-page-group/how-do-i-tell-other-people-i-dont-drink-anymore/page-1.md)
-  * [What happens to my creativity and confidence when I stop drinking?](copy-of-copy-of-section-one/copy-of-page-group/what-happens-to-my-creativity-and-confidence-when.md)
-  * [How will I handle celebrations and holidays without drinking?](copy-of-copy-of-section-one/copy-of-page-group/how-will-i-handle-celebrations-and-holidays-withou.md)
-  * [What if I'm not at "rock bottom" - is it still too early to quit?](copy-of-copy-of-section-one/copy-of-page-group/what-if-im-not-at-rock-bottom-is-it-still-too-earl.md)
+* [How do I tell other people I don't drink anymore?](sobriety-advice/how-do-i-tell-other-people-i-dont-drink-anymore/README.md)
+  * [Alcohol Assessment](sobriety-advice/how-do-i-tell-other-people-i-dont-drink-anymore/alcohol-assessment.md)
+  * [Page 1](sobriety-advice/how-do-i-tell-other-people-i-dont-drink-anymore/page-1.md)
 
 ***
 
@@ -59,7 +51,7 @@
 * [Will I lose my fiends / social life if I stop drinking?](will-i-lose-my-fiends-social-life-if-i-stop-drinki.md)
 * [Can I learn to drink in moderation instead of quitting completely?](can-i-learn-to-drink-in-moderation-instead-of-quit.md)
 * [How can I tell if my drinking is a problem?](how-can-i-tell-if-my-drinking-is-a-problem.md)
-* [Access program support.](access-program-support.md)
+* [Access Program Support](access-program-support.md)
 * [Accessing your program](accessing-your-program.md)
 * [Following your Program](following-your-program.md)
 * [How do I purchase Phenomenal?](how-do-i-purchase-phenomenal.md)
