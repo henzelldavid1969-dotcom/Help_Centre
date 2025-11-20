@@ -17,4 +17,4 @@ We offer a **7-Day Satisfaction Guarantee** on all program purchases. If within 
 ### Important
 
 Refund requests must be submitted in writing to [hello@phenomenalsobriety.com](mailto:hello@phenomenalsobriety.com) within the 7-day window. After this period, or once any materials have been downloaded or significant content accessed, **all sales are final** due to the digital nature of our content.\
-\
+<br>

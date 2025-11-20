@@ -9,18 +9,6 @@
   * [Who is Phenomenal for?](getting-started/why-phenomenal/who-is-phenomenal-for.md)
   * [Phenomenal's Gamified Elements](getting-started/why-phenomenal/why-gamification-works-the-benefits-of-phenomenals.md)
 
-## Account & Billing
-
-* [Login & Access](account-and-billing/login-and-access/README.md)
-  * [How do I reset my password?](account-and-billing/login-and-access/how-do-i-reset-my-password.md)
-  * [How do I create an account?](account-and-billing/login-and-access/how-do-i-create-an-account.md)
-  * [How do I purchase Phenomenal?](account-and-billing/login-and-access/how-do-i-purchase-phenomenal.md)
-* [Billing](account-and-billing/billing/README.md)
-  * [Payment Methods](account-and-billing/billing/what-payment-methods-do-you-accept.md)
-  * [Payment Information](account-and-billing/billing/how-do-i-update-my-payment-information.md)
-  * [Refunds](account-and-billing/billing/what-happens-after-i-cancel.md)
-  * [How much does Phenomenal cost?](account-and-billing/billing/how-much-does-phenomenal-cost.md)
-
 ## Using the Program
 
 * [Using Phenomenal](using-the-program/using-phenomenal/README.md)
@@ -32,6 +20,7 @@
 * [Features](using-the-program/features/README.md)
   * [Phenomenal Features Guide](using-the-program/features/phenomenal-features-guide.md)
   * [The THRIVE System](using-the-program/features/my-thrive-sobriety-framework.md)
+  * [How much does Phenomenal cost?](using-the-program/features/how-much-does-phenomenal-cost.md)
 
 ## Sobriety Guidance
 
@@ -85,7 +74,38 @@
 
 ## Network
 
-* [Page 1](network/page-1.md)
+* [Profile & Identity](network/profile-and-identity/README.md)
+  * [How do I set up my Member Profile?](network/profile-and-identity/how-do-i-set-up-my-member-profile.md)
+  * [How do I access & edit my custom fields?](network/profile-and-identity/how-do-i-access-and-edit-my-custom-fields.md)
+  * [What are the badges I'm seeing on my profile](network/profile-and-identity/what-are-the-badges-im-seeing-on-my-profile.md)
+* [Communication & Interaction](network/communication-and-interaction/README.md)
+  * [04 how do i chat with other members](network/communication-and-interaction/04-how-do-i-chat-with-other-members.md)
+  * [05 how do i manage my chat messages](network/communication-and-interaction/05-how-do-i-manage-my-chat-messages.md)
+  * [06 how do i post in a mighty network](network/communication-and-interaction/06-how-do-i-post-in-a-mighty-network.md)
+  * [08 how do i use hashtags in my mighty network](network/communication-and-interaction/08-how-do-i-use-hashtags-in-my-mighty-network.md)
+  * [09 can i use gifs and emojis in a mighty network](network/communication-and-interaction/09-can-i-use-gifs-and-emojis-in-a-mighty-network.md)
+  * [10 can i tag another member in a post or comment](network/communication-and-interaction/10-can-i-tag-another-member-in-a-post-or-comment.md)
+  * [11 how do i follow a member what does it mean](network/communication-and-interaction/11-how-do-i-follow-a-member-what-does-it-mean.md)
+  * [14 how can i report or block another member](network/communication-and-interaction/14-how-can-i-report-or-block-another-member.md)
+* [Learning & Features](network/learning-and-features/README.md)
+  * [12 how do i become an ambassador](network/learning-and-features/12-how-do-i-become-an-ambassador.md)
+  * [07 how do i take a quiz or course in my mighty network](network/learning-and-features/07-how-do-i-take-a-quiz-or-course-in-my-mighty-network.md)
+  * [13 how can i cast mighty networks content using chromecast and airplay](network/learning-and-features/13-how-can-i-cast-mighty-networks-content-using-chromecast-and-airplay.md)
+  * [15 are there ai features in my mighty network](network/learning-and-features/15-are-there-ai-features-in-my-mighty-network.md)
+* [Account Management](network/account-management/README.md)
+  * [16 how do i set or reset my password](network/account-management/16-how-do-i-set-or-reset-my-password.md)
+  * [17 why cant i log in to my mighty network](network/account-management/17-why-cant-i-log-in-to-my-mighty-network.md)
+  * [25 how do i manage my personal settings](network/account-management/25-how-do-i-manage-my-personal-settings.md)
+* [Support & Technical](network/support-and-technical/README.md)
+  * [22 what kind of notifications will i get as a member of a mighty network](network/support-and-technical/22-what-kind-of-notifications-will-i-get-as-a-member-of-a-mighty-network.md)
+  * [23 how can i get technical support as a member](network/support-and-technical/23-how-can-i-get-technical-support-as-a-member.md)
+  * [24 browser and device support](network/support-and-technical/24-browser-and-device-support.md)
+* [Billing & Purchases](network/billing-and-purchases/README.md)
+  * [18 how do i manage my membership or space purchases](network/billing-and-purchases/18-how-do-i-manage-my-membership-or-space-purchases.md)
+  * [20 how do i update my billing information](network/billing-and-purchases/20-how-do-i-update-my-billing-information.md)
+  * [19 how do i purchase a token gated plan](network/billing-and-purchases/19-how-do-i-purchase-a-token-gated-plan.md)
+  * [Refunds](network/billing-and-purchases/what-happens-after-i-cancel.md)
+  * [How do I purchase Phenomenal?](network/billing-and-purchases/how-do-i-purchase-phenomenal.md)
 
 ## Community
 
