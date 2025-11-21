@@ -1,3 +1,7 @@
+---
+description: Understand how Custom Fields work in Phenomenal.
+---
+
 # How do I access & edit my custom fields?
 
 Custom Fields live on your profile and help you connect with other members who share similar interests, skills, or goals.
@@ -68,4 +72,3 @@ If a Custom Field is set to private, it will not appear on your profile but can 
 
 </details>
 
-Source: https://faq.mightynetworks.com/en/articles/10495812-how-do-i-access-and-edit-my-custom-fields

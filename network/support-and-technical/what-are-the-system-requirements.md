@@ -1,14 +1,18 @@
+---
+description: Check your system ebfore running Phenomenal.
+---
+
 # System Requirements?
 
 Good news: Phenomenal has a **dedicated mobile app** (available for iOS and Android) that makes accessing your program incredibly easy—this is our preferred option for the best experience.
 
 **For the mobile app, you'll need:**
 
-
-
 * **iOS 13 or later** (iPhone/iPad)
 * **Android 8.0 or later**
 * **Basic internet connection** – WiFi or mobile data both work fine
+
+
 
 **Prefer using a web browser instead?**
 

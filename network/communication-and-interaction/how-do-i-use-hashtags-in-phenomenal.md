@@ -1,8 +1,12 @@
-# 08 how do i use hashtags in my mighty network
+---
+description: Getting crafty with your Phenomenal messages and posts.
+---
+
+# How do I use hashtags in Phenomenal?
 
 You can add hashtags to Posts, Chat messages, Articles, comments, Lessons and Sections, Events, and Questions & Polls on web or mobile.
 
-To add one, type a # followed by text—just like on other platforms. You can include multiple hashtags in the same piece of content.
+To add one, type a # followed by text - just like on other platforms. You can include multiple hashtags in the same piece of content.
 
 ## Hashtag Basics
 
@@ -48,6 +52,5 @@ You can also sort hashtag results by Top, Newest, or Oldest.
 
 When creating Posts, Articles, or comments on web (and on iOS or Android for Posts), you'll see a prompt to add a hashtag.
 
-Click the prompt to insert a `#` where your cursor is. As you type, a dropdown will appear showing hashtags— including any highlighted hashtags in that Space.
+Click the prompt to insert a `#` where your cursor is. As you type, a dropdown will appear showing hashtags - including any highlighted hashtags in that Space.
 
-Source: https://faq.mightynetworks.com/en/articles/9140788-how-do-i-use-hashtags-in-my-mighty-network

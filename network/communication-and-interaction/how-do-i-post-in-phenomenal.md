@@ -1,8 +1,10 @@
-# 06 how do i post in a mighty network
+# How do I post in Phenomenal?
 
 As a member, you can share updates in a Mighty Network in a number of ways: Posts, Articles, and Questions or Polls.
 
 Here's how each one works and when to use them.
+
+<figure><img src="../../.gitbook/assets/CleanShot 2025-11-21 at 07.21.01@2x.png" alt=""><figcaption></figcaption></figure>
 
 ## How to Create a Post
 
@@ -38,7 +40,7 @@ Post images show in either:
 
 The 3:4 ratio works best if you want the image as a background. If not, any size will display as uploaded.
 
-Note: very wide or tall images may get cropped, but the full image shows if someone clicks on it.
+**Note:** very wide or tall images may get cropped, but the full image shows if someone clicks on it.
 
 ### Formatting
 
@@ -70,19 +72,19 @@ Highlight any text in the editor to:
 
 {% stepper %}
 {% step %}
-### Add media — step 1
+### Add media - step 1
 
 Press Enter to create a new line.
 {% endstep %}
 
 {% step %}
-### Add media — step 2
+### Add media - step 2
 
 Select the + button on the left side of the editor.
 {% endstep %}
 
 {% step %}
-### Add media — step 3
+### Add media - step 3
 
 Choose to add a photo, video, media embed, file attachment, or section divider.
 
@@ -147,7 +149,7 @@ You can turn comments on or off for any post you make.
 {% endstep %}
 
 {% step %}
-### Behavior when toggling
+### Behaviour when toggling
 
 Turning them off hides existing comments, but they come back if you turn comments back on.
 {% endstep %}
@@ -163,7 +165,7 @@ Note: To schedule a Post, you must be the Space Host or a Space moderator.
 
 {% stepper %}
 {% step %}
-### On web — schedule a post
+### On web - schedule a post
 
 Open your Post draft:
 
@@ -202,11 +204,3 @@ Options include:
 * Fix spelling and grammar
 * Shorten or expand text
 * Change the tone (Casual, Fun, Professional, Sincere, Witty)
-
-<details>
-
-<summary>Source</summary>
-
-https://faq.mightynetworks.com/en/articles/3825339-how-do-i-post-in-a-mighty-network
-
-</details>

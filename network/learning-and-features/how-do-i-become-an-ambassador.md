@@ -1,12 +1,12 @@
-# 12 how do i become an ambassador
+---
+description: Learn how to spread the Phenomenal word.
+---
 
-<details>
-
-<summary><strong>How Do I Become an Ambassador?</strong></summary>
+# How do I become an ambassador?
 
 If you are a member of a Mighty Network and your Host has enabled the Ambassador Program, you can earn recognition (and potentially rewards!) for referring new members to join.
 
-When you send an email invite or share your unique personal invite link, you'll automatically get credit for the people who join because of you. The more people you refer, the faster you'll be recognized in your community as an Ambassador.
+When you send an email invite or share your unique personal invite link, you'll automatically get credit for the people who join because of you. The more people you refer, the faster you'll be recognised in your community as an Ambassador.
 
 There are three levels of Ambassadors:
 
@@ -15,7 +15,3 @@ There are three levels of Ambassadors:
 * **Gold Ambassadors** are members who have referred at least 25 total members
 
 To get started, just follow the prompt to become an Ambassador in your feed. Or, visit your profile in the app to grab your unique invite link.
-
-**Source:** https://faq.mightynetworks.com/en/articles/3825327-how-do-i-become-an-ambassador
-
-</details>

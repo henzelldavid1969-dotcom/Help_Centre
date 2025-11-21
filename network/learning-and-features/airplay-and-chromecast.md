@@ -1,4 +1,8 @@
-# 13 how can i cast mighty networks content using chromecast and airplay
+---
+description: View your program on the big screen.
+---
+
+# Airplay & Chromecast
 
 Chromecast and AirPlay let you stream Mighty Networks content from your device to a larger screen. This guide explains how to cast from the Mighty Networks mobile app and from the desktop web experience.
 
@@ -36,21 +40,3 @@ You will not be able to cast videos from an Android phone.
 * Casting quality depends on your network speed and the content’s quality.
 * Chromecast and AirPlay compatibility depends on your device’s casting capabilities; if your device doesn’t support casting, the option won’t be available.
 
-<details>
-
-<summary>Need further guidance? (Apple AirPlay &#x26; Google Chromecast resources)</summary>
-
-Apple AirPlay Articles:
-
-* Use AirPlay to stream video or mirror the screen of your iPhone or iPad
-* Use AirPlay to stream audio
-
-Google Chromecast Articles:
-
-* How to cast: A quick start guide
-* Cast from Chrome to your TV
-* Cast music & video from your phone to a device
-
-</details>
-
-Source: https://faq.mightynetworks.com/en/articles/9140791-how-can-i-cast-mighty-networks-content-using-chromecast-and-airplay

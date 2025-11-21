@@ -1,8 +1,14 @@
-# 04 how do i chat with other members
+---
+description: Chatting with other members is the foundation of any good community.
+---
+
+# How do I chat with other members?
 
 Your Mighty Network supports private chats with one member, group chats with up to nine members, and Space chats that happen inside each Space.
 
 Depending on your membership type and your Host's settings, chat features may look different in your Network.
+
+<figure><img src="../../.gitbook/assets/CleanShot 2025-11-21 at 07.13.10@2x.png" alt=""><figcaption></figcaption></figure>
 
 ## Types of Chat
 
@@ -31,7 +37,7 @@ Click Start Chat.
 {% endstepper %}
 
 {% hint style="info" %}
-Once a chat is created, you can't add new members—you'll need to start a new one.
+Once a chat is created, you can't add new members - you'll need to start a new one.
 {% endhint %}
 
 You can also start a chat with one other member by going to their profile and clicking "Chat".
@@ -46,14 +52,6 @@ You'll see Space chat notifications:
 * In your conversation list
 
 You can delete messages by hovering over them and selecting Delete.
-
-<details>
-
-<summary>Manage chat messages — additional article</summary>
-
-See "How Do I Manage My Chat Messages?" for details on managing messages in your conversation list.
-
-</details>
 
 ## Ways to Interact in Chat
 
@@ -78,19 +76,11 @@ If you mention someone who doesn't have access to the chat, you'll see an error 
 
 ### Chat Replies
 
-Replies help keep conversations organized and easier to follow.
+Replies help keep conversations organised and easier to follow.
 
 * You can reply in Space, private, or group chats by selecting the reply icon.
 * When enabled, replies trigger email and push notifications.
 * Chat threads also appear in your conversation list and begin with "Replies to."
-
-<details>
-
-<summary>Learn more: Managing chat messages</summary>
-
-Refer to "How Do I Manage My Chat Messages?" for deeper guidance.
-
-</details>
 
 ### GIFs and Emoji Reactions
 
@@ -104,7 +94,7 @@ You can add files from your computer to a chat.
 
 If your Host has this AI feature enabled, you'll see the option "Suggest a Conversation Starter".
 
-When opening a direct message or group chat with someone you haven't chatted with before, select Suggest a Conversation Starter. You'll see a draft message based on your profiles and shared interests—you can send it as-is, edit it, or select Try Again for a new suggestion.
+When opening a direct message or group chat with someone you haven't chatted with before, select Suggest a Conversation Starter. You'll see a draft message based on your profiles and shared interests - you can send it as-is, edit it, or select Try Again for a new suggestion.
 
 ## Turning Chat On or Off
 
@@ -116,4 +106,3 @@ Personal Settings > Chat
 Availability of chat features (including Space chat, voice notes, AI suggestions, and the ability to disable private chat) depends on your Host's settings and your membership type.
 {% endhint %}
 
-Source: https://faq.mightynetworks.com/en/articles/3825343-how-do-i-chat-with-other-members

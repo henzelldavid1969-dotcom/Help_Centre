@@ -1,4 +1,8 @@
-# 22 what kind of notifications will i get as a member of a mighty network
+---
+description: Control which notifications you'd like to receive, or not.
+---
+
+# Phenomenal Notifications
 
 Notifications surface updates about activity in your Mighty Network.
 
@@ -15,6 +19,8 @@ You can receive notifications through five different channels: in-app, email, de
 * Pop-up notifications (on by default): These notifications appear temporarily in the lower right corner of the screen for direct chat messages and Space Chat Messages.
 
 If you would like to turn on or off Space Chat Message notifications for all your Spaces: Personal Settings -> Notifications -> Space Chat Messages. To mute Space Chat Messages for a specific Space: select the three-dot menu next to the Space and click "Mute Chat".
+
+<figure><img src="../../.gitbook/assets/CleanShot 2025-11-21 at 07.45.44@2x.png" alt=""><figcaption></figcaption></figure>
 
 ## Default Notifications and Settings When You First Create Your Account
 

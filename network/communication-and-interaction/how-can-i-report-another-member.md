@@ -1,4 +1,8 @@
-# 14 how can i report or block another member
+---
+description: We hope you won't ever need to - but here's how.
+---
+
+# How can I report another member?
 
 <details>
 
@@ -52,4 +56,3 @@ A notification is sent to your Host to let them know that the member has been re
 
 </details>
 
-Source: https://faq.mightynetworks.com/en/articles/3825340-how-can-i-report-or-block-another-member

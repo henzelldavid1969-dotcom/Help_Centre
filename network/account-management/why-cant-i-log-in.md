@@ -1,4 +1,8 @@
-# 17 why cant i log in to my mighty network
+---
+description: Locked out? Don't worry we can let you back in!
+---
+
+# Why cant I log in?
 
 If you're having trouble logging into your Mighty Network, check the sections below for common causes and solutions.
 
@@ -16,7 +20,17 @@ If you're having trouble logging into your Mighty Network, check the sections be
 
 <summary>Switching Between Networks</summary>
 
-On MobileOnce you log in to a Mighty Network app, you can switch between networks without needing to log in again.Tap the three-line menu in the top left cornerTap "Switch Networks"On WebOnce logged in, you can hop between networks by going directly to the URL in your web browser. For easy navigation, consider bookmarking the landing pages of all the Mighty Networks you're a member of.
+**On Mobile**
+
+Once you log in to a Mighty Network app, you can switch between networks without needing to log in again.
+
+Tap the three-line menu in the top left corner
+
+Tap "Switch Networks"
+
+**On Web**
+
+Once logged in, you can hop between networks by going directly to the URL in your web browser. For easy navigation, consider bookmarking the landing pages of all the Mighty Networks you're a member of.
 
 </details>
 
@@ -24,7 +38,27 @@ On MobileOnce you log in to a Mighty Network app, you can switch between network
 
 <summary>Resetting Your Password</summary>
 
-Important NotesYou can only reset your password through a web browser, not through the mobile app.Forgot Password?Open a web browser and go to the Sign In page of your Mighty Network.Click the "Forgot password?" link.Enter your email address and click "Send Email."The password reset email is valid for one hour, but you can send yourself as many reset emails as needed.If You Don't Receive the EmailSearch your inbox for "password".Check your spam and junk folders.If you're still having trouble, email: chat@mightynetworks.com
+**Important Notes**
+
+You can only reset your password through a web browser, not through the mobile app.
+
+**Forgot Password?**
+
+Open a web browser and go to the Sign In page of your Mighty Network.
+
+Click the "Forgot password?" link.
+
+Enter your email address and click "Send Email."
+
+The password reset email is valid for one hour, but you can send yourself as many reset emails as needed.
+
+If You Don't Receive the Email
+
+Search your inbox for "password".
+
+Check your spam and junk folders.
+
+If you're still having trouble, email: hello@phenomenalsobriety.com
 
 </details>
 
@@ -43,8 +77,7 @@ Possible reasons your account was disabled:
 * **Banned by Host or Moderator:** A Network Host or Moderator may have banned your account.
 * **Flagged for Spam:** Your account might have been flagged for spam due to sending repeated messages.
 
-If you believe your account was disabled by mistake, email: chat@mightynetworks.com and the team will take a look. If your account was banned by a Host or Moderator, that decision cannot be overturned by Mighty Networks support.
+If you believe your account was disabled by mistake, email: hello@phenomenalsobriety.com and the team will take a look. If your account was banned by a Host or Moderator, that decision cannot be overturned by Mighty Networks support.
 
 </details>
 
-Source: https://faq.mightynetworks.com/en/articles/3825325-why-can-t-i-log-in-to-my-mighty-network

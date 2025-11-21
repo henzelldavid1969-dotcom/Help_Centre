@@ -1,4 +1,8 @@
-# 20 how do i update my billing information
+---
+description: Learn how to change your payment details
+---
+
+# Updating my billing information
 
 {% hint style="info" %}
 Please note: you cannot edit your billing information using our iOS or Android mobile app. To make changes to your billing details, please use a web browser.
@@ -19,5 +23,3 @@ If you purchased access to a paid experience in a Mighty Network where you are a
 {% hint style="warning" %}
 Mighty Networks only allows one credit card for all subscription plans under the same account. Members cannot use different credit cards or payment methods for different subscriptions within the same Network. However, if a member has accounts in multiple Mighty Networks, they can add a different payment method for each Network.
 {% endhint %}
-
-Source: https://faq.mightynetworks.com/en/articles/3825324-how-do-i-update-my-billing-information

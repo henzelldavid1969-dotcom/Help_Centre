@@ -1,4 +1,10 @@
-# 15 are there ai features in my mighty network
+---
+description: >-
+  Depending on your program, you may have access to some AI features to enhance
+  your Phenomenal experience.
+---
+
+# Phenomenal AI Features
 
 Yes! We have developed a set of powerful new AI features designed to help you do things like fill out your profile, fix spelling and grammar, change the tone of your writing and more!
 
@@ -62,7 +68,5 @@ This feature will show in Posts, Articles, Comments, Lessons and Sections. The h
 </details>
 
 {% hint style="info" %}
-If you have any questions, you can reach out to your Host directly or send us an email to help@mightynetworks.com.
+If you have any questions, you can reach out to your Host directly or send us an email to hello@phenomenalsobriety.com
 {% endhint %}
-
-Source: https://faq.mightynetworks.com/en/articles/9140790-are-there-ai-features-in-my-mighty-network

@@ -1,4 +1,8 @@
-# 25 how do i manage my personal settings
+---
+description: Keeping your house in order.
+---
+
+# Manage my personal settings
 
 You will find your Personal Settings by selecting your profile photo in the upper right corner.
 
@@ -47,5 +51,3 @@ You'll find a QR code to easily download the app. Open the camera on your phone,
 If your Host allows, you can invite others to join via email or by uploading a CSV of your contacts.
 
 If your Host has enabled the Ambassador program, you'll see it here as well.
-
-Source: https://faq.mightynetworks.com/en/articles/9953997-how-do-i-manage-my-personal-settings

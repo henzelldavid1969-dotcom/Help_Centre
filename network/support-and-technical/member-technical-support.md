@@ -1,4 +1,8 @@
-# 23 how can i get technical support as a member
+---
+description: Technology, he? We've got you covered.
+---
+
+# Member Technical Support
 
 Need Help? Here's How to Get the Right Support!
 
@@ -30,8 +34,6 @@ For technical issues such as:
 * Updating billing information.
 * Leaving a Mighty Network or deleting your account.
 
-Contact the Mighty Networks Customer Advocacy Team: https://faq.mightynetworks.com/en/articles/7830104-how-can-i-get-technical-support-as-a-member
-
 ## Quick Answers in Our Help Center
 
 For general information, our Help Center is a great resource. Use the search function at the top-right of the page for instant answers.
@@ -50,7 +52,7 @@ Contact your Host (the creator of the community). They handle things like refund
 
 <summary>Who should I contact for technical issues?</summary>
 
-For technical issues (password resets, profile or post permissions, billing updates, leaving/deleting an account), contact the Mighty Networks Customer Advocacy Team: https://faq.mightynetworks.com/en/articles/7830104-how-can-i-get-technical-support-as-a-member
+For technical issues (password resets, profile or post permissions, billing updates, leaving/deleting an account), contact hello@phenomenalsobriety.com
 
 </details>
 
@@ -61,7 +63,3 @@ For technical issues (password resets, profile or post permissions, billing upda
 Use the Mighty Networks Help Center and its search function for instant answers to common questions.
 
 </details>
-
-***
-
-Source: https://faq.mightynetworks.com/en/articles/7830104-how-can-i-get-technical-support-as-a-member

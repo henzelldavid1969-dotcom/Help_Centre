@@ -1,6 +1,12 @@
-# 05 how do i manage my chat messages
+---
+description: Keeping track of your messages is easy in Phenomenal.
+---
+
+# How doI manage my chat messages?
 
 If you would like to manage your chat messages, you have some options!
+
+<figure><img src="../../.gitbook/assets/CleanShot 2025-11-21 at 07.17.41@2x.png" alt=""><figcaption></figcaption></figure>
 
 <details>
 
@@ -33,8 +39,6 @@ You can further control what you see in your conversation list:
 * Show Muted Conversations: any chat you have muted will show in the conversation list.
 * Show Private Messages: only Private Messages will show in your conversation list. Any Space chat will be hidden and you won't receive notifications for those messages in your chat icon. However, you will still be able to see an unread indicator on the left hand navigation panel.
 
-Check out this video to see your full options!
-
 </details>
 
 <details>
@@ -43,15 +47,13 @@ Check out this video to see your full options!
 
 Muting a chat will stop all notifications for that message. If you would like to change the way you receive notifications, go to Personal Settings > Notifications.
 
-To learn more, check out this article.
-
 </details>
 
 <details>
 
 <summary><strong>Modifying How Messages Are Sent and Seen</strong></summary>
 
-You can choose how you'd like your private chat messages to be sent — by pressing the Enter key on your keyboard or by clicking a Send button.
+You can choose how you'd like your private chat messages to be sent - by pressing the Enter key on your keyboard or by clicking a Send button.
 
 Adjust send behaviorClick the chat icon in the upper right corner of your profile.Click the gear icon.Toggle on or off "Show Send Button".
 
@@ -77,8 +79,5 @@ You can search for existing chat conversations via the search bar in chat. By ty
   * Recreate the conversation with the same people: create a new chat, add the members, and when you click "Start Chat" the conversation will pick up where you left off.
   * If the archived conversation is with just one other person, you can also unarchive it by navigating to their profile and clicking "Chat."
 
-To learn about how members block each other, check out the article, "What Blocking and Reporting Tools do Members Have in My Mighty Network?"
-
 </details>
 
-Source: https://faq.mightynetworks.com/en/articles/9354579-how-do-i-manage-my-chat-messages

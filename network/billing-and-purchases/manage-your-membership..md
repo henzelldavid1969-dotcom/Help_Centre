@@ -1,6 +1,10 @@
-# 18 how do i manage my membership or space purchases
+---
+description: Understanding your membership options.
+---
 
-Managing your purchases and subscriptions in Mighty Networks is simple. Whether you need to update billing, cancel a subscription, or download invoices, the sections below explain how to do each task.
+# Manage your Membership.
+
+Managing your purchases and subscriptions in Phenomenal is simple. Whether you need to update billing, cancel a subscription, or download invoices, the sections below explain how to do each task.
 
 ## Viewing and Managing Your Purchases
 
@@ -152,8 +156,6 @@ If you didn't purchase your Plan directly through Mighty Networks, your Host is 
 * Your Host may share details in the community on how to manage your subscription.
 * If you need help managing a payment made outside Mighty Networks, reach out to your Host directly.
 
-Not sure whether your Plan was purchased outside of Mighty Networks? Contact our team at chat@mightynetworks.com, and we'll be happy to confirm!
+Not sure whether your Plan was purchased outside of Mighty Networks? Contact our team at hello@phenomenalsobriety.com, and we'll be happy to confirm!
 
 </details>
-
-Source: https://faq.mightynetworks.com/en/articles/7829808-how-do-i-manage-my-membership-or-space-purchases

@@ -1,4 +1,8 @@
-# 07 how do i take a quiz or course in my mighty network
+---
+description: Different ways to get involved.
+---
+
+# How do i take a quiz or course?
 
 <details>
 
@@ -40,8 +44,3 @@ If your Host has toggled on the ability for you to reset your Course progress, t
 A modal will pop up asking you if you want to reset your progress. As a note, you will lose your current Course Material progress and Quiz attempts. Previously locked content may become locked again.
 
 </details>
-
-{% hint style="info" %}
-Updated September 2023\
-Source: https://faq.mightynetworks.com/en/articles/9140786-how-do-i-take-a-quiz-or-course-in-my-mighty-network
-{% endhint %}
