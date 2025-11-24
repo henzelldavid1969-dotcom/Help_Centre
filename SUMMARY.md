@@ -37,6 +37,7 @@
   * [Member Technical Support](network/support-and-technical/member-technical-support.md)
   * [Browser Support](network/support-and-technical/browser-support.md)
   * [System Requirements?](network/support-and-technical/what-are-the-system-requirements.md)
+  * [Program Support](network/support-and-technical/program-support.md)
 * [Billing & Purchases](network/billing-and-purchases/README.md)
   * [Manage your Membership.](network/billing-and-purchases/manage-your-membership..md)
   * [Updating my billing information](network/billing-and-purchases/updating-my-billing-information.md)
